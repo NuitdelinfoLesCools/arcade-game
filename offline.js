@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1544159275,
+	"version": 1544161265,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -12,6 +12,7 @@
 		"images/background.png",
 		"images/bullet-sheet0.png",
 		"images/gamelogo-sheet0.png",
+		"images/deathparticles.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
